@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+/append_to_theme/zip_build/append_to_theme
+/append_to_theme/zip_build/!README.txt
