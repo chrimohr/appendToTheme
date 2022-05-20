@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 .idea/
-/append_to_theme/zip_build/append_to_theme
-/append_to_theme/zip_build/!README.txt
+/append_to_theme/zip_build/

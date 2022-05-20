@@ -6,7 +6,7 @@
 name=appendToTheme
 qgisMinimumVersion=3.0
 description=Append Layer to all selected map themes
-version=0.2
+version=0.3
 author=Christoph Mohr
 email=moin@chrimohr.com
 
@@ -27,7 +27,7 @@ tags=theme, maptheme
 
 homepage=https://github.com/chrimohr/appendToTheme
 category=Plugins
-icon=icon.png
+icon=addIcon.png
 # experimental flag
 experimental=True
 
