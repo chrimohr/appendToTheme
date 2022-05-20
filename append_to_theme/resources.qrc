@@ -2,4 +2,7 @@
     <qresource prefix="/plugins/append_to_theme" >
         <file>icon.png</file>
     </qresource>
+    <qresource prefix="/plugins/append_to_theme" >
+        <file>addIcon.png</file>
+    </qresource>
 </RCC>

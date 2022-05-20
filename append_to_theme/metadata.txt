@@ -6,7 +6,7 @@
 name=appendToTheme
 qgisMinimumVersion=3.0
 description=Append Layer to all selected map themes
-version=0.1
+version=0.2
 author=Christoph Mohr
 email=moin@chrimohr.com
 

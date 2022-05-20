@@ -162,7 +162,7 @@ class appendToTheme:
     def initGui(self):
         """Create the menu entries and toolbar icons inside the QGIS GUI."""
 
-        icon_path = ':/plugins/append_to_theme/icon.png'
+        icon_path = ':/plugins/append_to_theme/addIcon.png'
         self.add_action(
             icon_path,
             text=self.tr(u'Append To Theme'),
